@@ -1,8 +1,8 @@
 ---
 # the default layout is 'page'
 icon: fa-solid fa-user
-order: 5
+order: 4
 ---
 
-## Hello ðŸ‘‹
+## Hello
 > My name is `thezodiacox0`
