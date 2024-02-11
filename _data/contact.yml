@@ -10,9 +10,13 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+- type: discord
+  icon: 'fab fa-discord'
+  url:  'https://discord.com/users/@thezodiacox0'
+
+- type: instagram
+  icon: 'fa-brands fa-instagram'
+  url:  'https://instagram.com/thezodiacox0'
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
