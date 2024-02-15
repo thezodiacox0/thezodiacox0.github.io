@@ -5,7 +5,7 @@ order: 4
 ---
 
 <h1 align="center">Hi 👋, I'm TheZodiacoX</h1>
-<h3 align="center">I am passionate about `Programming`, video games, web design, hardware and jailbreaking devices on PS3, PS4, PS5, Android.</h3>
+<h3 align="center">I am passionate about Programming, Videogames, Web design, Hardware and Jailbreak devices on PS3, PS4, PS5, Android.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/thezodiacox0?tab=repositories](https://github.com/thezodiacox0?tab=repositories)
 
@@ -14,7 +14,7 @@ order: 4
 - 📫 How to reach me **thezodiacox0.mail@proton.me**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="justify">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
