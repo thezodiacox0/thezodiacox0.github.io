@@ -5,7 +5,7 @@ order: 4
 ---
 
 <h1 align="center">Hi 👋, I'm TheZodiacoX</h1>
-<h3 align="center">I am passionate about programming, video games, web design, hardware and jailbreaking devices on PS3, PS4, PS5, Android.</h3>
+<h3 align="center">I am passionate about `Programming`, video games, web design, hardware and jailbreaking devices on PS3, PS4, PS5, Android.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/thezodiacox0?tab=repositories](https://github.com/thezodiacox0?tab=repositories)
 
