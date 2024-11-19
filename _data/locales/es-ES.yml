@@ -13,19 +13,19 @@ tabs:
   home: Inicio
   categories: Categorías
   tags: Etiquetas
-  archives: Archivo
+  archives: Archivos
   about: Acerca de
 
 # the text displayed in the search bar & search results
 search:
   hint: Buscar
   cancel: Cancelar
-  no_results: ¡Oops! No se encuentran resultados.
+  no_results: ¡Lo siento! No se encuentran resultados.
 
 panel:
   lastmod: Actualizado recientemente
   trending_tags: Etiquetas populares
-  toc: Contenido
+  toc: Tabla de Contenido
 
 copyright:
   # Shown at the bottom of the post
@@ -40,13 +40,13 @@ copyright:
     Salvo que se indique explícitamente, las entradas de este blog están licenciadas
     bajo la Creative Commons Attribution 4.0 International (CC BY 4.0) License por el autor.
 
-meta: Hecho con :PLATFORM usando el tema :THEME
+meta: 
 
 not_found:
   statement: Lo sentimos, hemos perdido esa URL o apunta a algo que no existe.
 
 notification:
-  update_found: Hay una nueva versión de contenido disponible.
+  update_found: Hay una nueva versión disponible de TheZodiacoX.
   update: Actualizar
 
 # ----- Posts related labels -----
